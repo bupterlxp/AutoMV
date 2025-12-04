@@ -91,12 +91,11 @@ Dependencies include:
 
 ### 3. Add API Keys
 
-Create a `.env` file:
+Export the following Environment Variable:
 
 ```bash
 GEMINI_API_KEY=xxx
 DOUBAO_API_KEY=xxx
-QWEN_API_KEY=xxx
 ```
 
 ---
