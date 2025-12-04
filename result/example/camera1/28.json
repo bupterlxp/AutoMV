@@ -1,0 +1,11 @@
+[
+  {
+    "shot_num": 1,
+    "prompt": "Subject: Female Singer (late 20s, dark long flowing hair, ethereal and poised figure with serene yet emotive expression). Context: Intimate minimalist indoor setting. Action: Delivers the chorus with immense power—hands gently rising from her sides, head tilting back slightly, eyes closing briefly then opening with intense emotion, subtle swaying to the rhythm. Style: Warm, romantic, cinematic aesthetic with rich golden tones and soft-focus dreamlike visuals. Camera Motion & Angle: Slow push-in from eye level, transitioning to a slight low angle as intensity builds. Composition: Medium shot (upper body) gradually tightening to a close-up (focus on face and expressive eyes). Ambiance: Brightened, dramatic golden lighting, heartfelt and tender atmosphere at the emotional peak of her performance.",
+    "camera_movement": "Slow push-in",
+    "shot_duration": 8.0,
+    "start": 170.0,
+    "end": 178.0,
+    "label": "sing"
+  }
+]

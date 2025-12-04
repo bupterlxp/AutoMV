@@ -1,0 +1,11 @@
+[
+  {
+    "shot_num": 1,
+    "prompt": "Subject: Eleven's trembling hand and tearful face. Context: Intimate outdoor setting during golden hour. Action: The Man slides a ring onto Eleven's finger; her hand trembles slightly; she nods tearfully, whispering 'yes'. Style: Warm, romantic, cinematic with soft-focus, dreamlike visuals. Camera Motion & Angle: Slow close-up (starting on hands), gentle pan up to eye-level on her face. Composition: Extreme close-up (hands) transitioning to close-up (face). Ambiance: Golden hour lighting, warm golden tones, soft ambient light, heartfelt and tender atmosphere.",
+    "camera_movement": "Slow close-up, gentle pan up",
+    "shot_duration": 3.0,
+    "start": 139.0,
+    "end": 142.0,
+    "label": "story"
+  }
+]

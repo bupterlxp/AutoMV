@@ -1,0 +1,11 @@
+[
+  {
+    "shot_num": 1,
+    "prompt": "Subject: Chinese couple (the man and Eleven). Context: Rooftop at twilight overlooking the city. Action: The man gently tucks a strand of hair behind Eleven's ear; they share a deep, knowing look. Style: Warm, romantic, cinematic with soft-focus, dreamlike visuals. Camera Motion & Angle: Slow dolly in from medium two-shot to close-up, eye level. Composition: Medium two-shot (couple sitting) transitioning to close-up of their faces. Ambiance: Golden hour twilight lighting, warm golden tones, soft, slightly desaturated yet rich color palette.",
+    "camera_movement": "slow dolly in",
+    "shot_duration": 5.0,
+    "start": 85.0,
+    "end": 90.0,
+    "label": "story"
+  }
+]

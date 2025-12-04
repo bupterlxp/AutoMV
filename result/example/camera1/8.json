@@ -1,0 +1,11 @@
+[
+  {
+    "shot_num": 1,
+    "prompt": "Subject: Chinese female singer (late 20s) with dark long flowing hair. Context: Cozy indoor room filled with floating lights. Action: Sings directly to the camera, eyes softening with a profound realization, head tilting slightly. Style: Warm romantic cinematic with soft-focus dreamlike visuals. Camera Motion & Angle: Steady eye-level close-up, subtle slow push-in. Composition: Tight close-up framing her face and upper shoulders. Ambiance: Soft golden-hour lighting, warm pastels and golden tones, floating lights creating an ethereal glow.",
+    "camera_movement": "Subtle slow push-in",
+    "shot_duration": 4.0,
+    "start": 57.0,
+    "end": 61.0,
+    "label": "sing"
+  }
+]

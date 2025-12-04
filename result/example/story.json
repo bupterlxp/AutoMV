@@ -1,0 +1,274 @@
+[
+    {
+        "number": 1,
+        "start": 0.0,
+        "end": 5.0,
+        "label": "story",
+        "text": "你 你 你 你 你",
+        "story": "A dimly lit, cozy bookstore. A young woman (Eleven) with glasses is browsing a shelf. She freezes, her eyes fixed on a man standing at the far end of the aisle, silhouetted by a window. Her perspective is shaky, showing nervousness."
+    },
+    {
+        "number": 2,
+        "start": 5.0,
+        "end": 10.0,
+        "label": "story",
+        "text": "你 你 你 你 你",
+        "story": "Close-up on her face, a mix of hesitation and curiosity. The man turns slightly, and a sliver of warm light catches his profile. She takes a small, almost imperceptible step forward, then stops."
+    },
+    {
+        "number": 3,
+        "start": 10.0,
+        "end": 17.0,
+        "label": "story",
+        "text": "你 你 你 你 你 你 你",
+        "story": "The man picks up a book and starts walking towards the exit, oblivious. Panic flashes in her eyes. Quick cuts show her fumbling with her own books, her heart racing as he gets closer to the door."
+    },
+    {
+        "number": 4,
+        "start": 17.0,
+        "end": 20.0,
+        "label": "story",
+        "text": "先生 先生 等一下",
+        "story": "Wide shot as she finally rushes forward, calling out. The man stops at the doorway and turns around, looking surprised. The bookstore's ambient noise fades slightly, focusing on the two of them."
+    },
+    {
+        "number": 5,
+        "start": 20.0,
+        "end": 23.0,
+        "label": "story",
+        "text": "",
+        "story": "Slow-motion shot of the man's face, a gentle, questioning expression. Dust motes dance in the light between them. A moment of suspended time."
+    },
+    {
+        "number": 6,
+        "start": 23.0,
+        "end": 29.0,
+        "label": "story",
+        "text": "我需要和你说句话 你好 我叫十一 你好",
+        "story": "Back to her, she looks down shyly, then meets his gaze. A small, nervous smile appears. 'My name is Eleven,' she says. The scene is intimate, framed closely on their interaction."
+    },
+    {
+        "number": 7,
+        "start": 29.0,
+        "end": 57.0,
+        "label": "story",
+        "text": "",
+        "story": "A long, instrumental sequence. Montage: They are now sitting at a small café table in the bookstore, talking. Shots of them laughing, his hand gesturing as he tells a story, her listening intently. The lighting is warm and golden, signifying the start of something beautiful."
+    },
+    {
+        "number": 8,
+        "start": 57.0,
+        "end": 61.0,
+        "label": "sing",
+        "text": "我明白 只一眼",
+        "story": "Close-up of the female singer in a soft, ethereal setting, perhaps a room filled with floating lights. She sings directly to the camera with a look of profound realization."
+    },
+    {
+        "number": 9,
+        "start": 61.0,
+        "end": 65.0,
+        "label": "story",
+        "text": "就能确定 那是终点",
+        "story": "Cut back to the café. A super slow-motion shot focusing on Eleven's eyes as she looks at the man. The background blurs, and a subtle light flares, symbolizing her certainty."
+    },
+    {
+        "number": 10,
+        "start": 65.0,
+        "end": 68.0,
+        "label": "story",
+        "text": "怕什么 沦陷",
+        "story": "He smiles back at her, and she breaks into a genuine, unguarded laugh. Any fear or hesitation is gone, replaced by pure joy."
+    },
+    {
+        "number": 11,
+        "start": 68.0,
+        "end": 73.0,
+        "label": "story",
+        "text": "奔向有你的世界",
+        "story": "Dynamic shot: they are now running together through a park in the autumn, leaves swirling around them. The camera follows them, capturing their playful energy and freedom."
+    },
+    {
+        "number": 12,
+        "start": 73.0,
+        "end": 77.0,
+        "label": "sing",
+        "text": "余生 许下的誓言",
+        "story": "Medium shot of the female singer, her hand over her heart. The background shifts to a projection of a starry night sky, reinforcing the theme of destiny and promises."
+    },
+    {
+        "number": 13,
+        "start": 77.0,
+        "end": 82.0,
+        "label": "story",
+        "text": "每一笔 都是你的名字",
+        "story": "Close-up on Eleven's hand as she doodles his name in the condensation on a window pane, a sketchbook, and the sand on a beach. A montage of her thoughts being filled with him."
+    },
+    {
+        "number": 14,
+        "start": 82.0,
+        "end": 85.0,
+        "label": "story",
+        "text": "再重来一次",
+        "story": "A symbolic visual: a film reel rewinds quickly, then plays forward to the moment they first met in the bookstore, suggesting that even with a do-over, the outcome would be the same."
+    },
+    {
+        "number": 15,
+        "start": 85.0,
+        "end": 90.0,
+        "label": "story",
+        "text": "也会记得 爱你这件事",
+        "story": "The couple sits on a rooftop overlooking the city at twilight. He gently tucks a strand of hair behind her ear. The look they share is deep and knowing."
+    },
+    {
+        "number": 16,
+        "start": 90.0,
+        "end": 97.0,
+        "label": "story",
+        "text": "如果说 七八个世纪出现了我们的开始",
+        "story": "A surreal, dreamlike sequence. They walk hand-in-hand through an old, grand library where the books are ancient scrolls. The lighting is mystical, hinting at past lives and a long history."
+    },
+    {
+        "number": 17,
+        "start": 97.0,
+        "end": 103.0,
+        "label": "story",
+        "text": "爱怎会甘愿停止",
+        "story": "They stop in the middle of the mystical library and embrace tightly. The camera circles them as particles of light float upwards, symbolizing an eternal, unending love."
+    },
+    {
+        "number": 18,
+        "start": 103.0,
+        "end": 118.0,
+        "label": "story",
+        "text": "那双手细语的语言",
+        "story": "A beautiful instrumental break. Extreme close-ups on their hands—intertwined, caressing a face, holding a warm mug together. The storytelling is purely visual, focused on the intimacy of touch. The scene transitions to them walking under a gentle rain, sharing an umbrella."
+    },
+    {
+        "number": 19,
+        "start": 118.0,
+        "end": 122.0,
+        "label": "sing",
+        "text": "已是残泪流的从前",
+        "story": "A striking shot of the female singer, a single, glistening tear track on her cheek, but her expression is serene, not sad. The background is a stark, minimalist white."
+    },
+    {
+        "number": 20,
+        "start": 122.0,
+        "end": 127.0,
+        "label": "story",
+        "text": "也不会改变 某些注定相见",
+        "story": "Flashback to a time before they met: Eleven is sitting alone on a bus, looking out at the rain-streaked window with a lonely expression. The scene then cross-fades back to the present, where the man gently wipes a raindrop from her cheek."
+    },
+    {
+        "number": 21,
+        "start": 127.0,
+        "end": 135.0,
+        "label": "sing",
+        "text": "余生许下的誓言 每一笔都是你的名字",
+        "story": "The singer is now in a field at sunset, the golden light creating a halo effect. She sings with renewed confidence and warmth as the camera slowly pushes in."
+    },
+    {
+        "number": 22,
+        "start": 135.0,
+        "end": 139.0,
+        "label": "story",
+        "text": "再重来一次 也会记得",
+        "story": "The man proposes. He is down on one knee on a scenic cliff overlooking the ocean. The camera focuses on Eleven's shocked and overjoyed reaction."
+    },
+    {
+        "number": 23,
+        "start": 139.0,
+        "end": 142.0,
+        "label": "story",
+        "text": "爱你这件事",
+        "story": "Close-up on her hand as he slides the ring on her finger. Her hand is trembling slightly with emotion. She nods tearfully, saying 'yes'."
+    },
+    {
+        "number": 24,
+        "start": 142.0,
+        "end": 150.0,
+        "label": "story",
+        "text": "如果说 七八个世纪出现了我们的开始",
+        "story": "A fast-paced montage of their life together: moving into a new home, celebrating a birthday, traveling. The shots are filled with laughter, sunlight, and a sense of shared adventure."
+    },
+    {
+        "number": 25,
+        "start": 150.0,
+        "end": 154.0,
+        "label": "story",
+        "text": "爱怎会甘愿停止",
+        "story": "They embrace on the cliffside as the sun sets, a powerful silhouette against the vibrant orange and purple sky."
+    },
+    {
+        "number": 26,
+        "start": 154.0,
+        "end": 161.0,
+        "label": "sing",
+        "text": "也许还会有 最温热的双眸",
+        "story": "A gentle shift in tone. The singer is now in a cozy, candlelit room. The camera is very close on her face, capturing the soft, intimate emotion of the lyrics."
+    },
+    {
+        "number": 27,
+        "start": 161.0,
+        "end": 170.0,
+        "label": "story",
+        "text": "一直在等候 收藏了太久的温柔",
+        "story": "An older version of the couple, sitting on a porch swing, wrapped in a blanket. He is reading to her. The scene is peaceful and filled with a lifetime of shared tenderness and quiet comfort."
+    },
+    {
+        "number": 28,
+        "start": 170.0,
+        "end": 178.0,
+        "label": "sing",
+        "text": "余生许下的誓言 每一笔 都是你的名字",
+        "story": "The singer delivers the chorus with immense power and emotion. The lighting becomes brighter, more dramatic. This is the emotional peak of her performance."
+    },
+    {
+        "number": 29,
+        "start": 178.0,
+        "end": 185.0,
+        "label": "story",
+        "text": "再重来一次 也会记得 爱你这件事",
+        "story": "A cross-cut between the young couple getting married and the old couple smiling at each other on the porch, showing the promise and its fulfillment across time."
+    },
+    {
+        "number": 30,
+        "start": 185.0,
+        "end": 194.0,
+        "label": "story",
+        "text": "如果说 七八个世纪出现了我们的开始 爱怎会甘愿停止",
+        "story": "Final sweeping crane shot that pulls back from the couple (either young or old), showing them as a small part of a vast, beautiful landscape, emphasizing the epic, timeless scale of their love."
+    },
+    {
+        "number": 31,
+        "start": 194.0,
+        "end": 212.0,
+        "label": "story",
+        "text": "",
+        "story": "The music swells and then begins to fade. The final image of the couple holds, slowly fading to a soft white. A sense of peace and completion."
+    },
+    {
+        "number": 32,
+        "start": 212.0,
+        "end": 219.0,
+        "label": "story",
+        "text": "爱情小说 全球首映 全球首映",
+        "story": "Over the soft, fading visual, elegant text appears on screen: '愛情小說 (Love Story)'. Below it, '全球首映 (World Premiere)' fades in."
+    },
+    {
+        "number": 33,
+        "start": 219.0,
+        "end": 225.0,
+        "label": "story",
+        "text": "每周四周五 中午12点 在红尘网上扶持",
+        "story": "The camera holds on a final, tender shot of the couple looking at each other. More text appears: 'Thursdays & Fridays at 12 PM'. 'On Hongchen Net'."
+    },
+    {
+        "number": 34,
+        "start": 225.0,
+        "end": 240.0,
+        "label": "story",
+        "text": "爱情小说 全球首映 每周四周五",
+        "story": "The music fades out completely. The screen shows the final title card against a clean background, reiterating the show's name and premiere details as the visual fades to black."
+    }
+]

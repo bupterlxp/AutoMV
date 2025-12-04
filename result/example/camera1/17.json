@@ -1,0 +1,11 @@
+[
+  {
+    "shot_num": 1,
+    "prompt": "Subject: Two people (Eleven and the man) embracing tightly. Context: Mystical library with tall bookshelves and soft ambient light. Action: Standing still, embracing; floating particles of light ascending around them. Style: Warm, romantic, cinematic with soft, emotive lighting. Camera Motion & Angle: Circular tracking shot, eye level. Composition: Medium shot, centered on the couple. Ambiance: Warm golden tones, soft ambient light, glowing ascending particles.",
+    "camera_movement": "circular tracking",
+    "shot_duration": 6.0,
+    "start": 97.0,
+    "end": 103.0,
+    "label": "story"
+  }
+]

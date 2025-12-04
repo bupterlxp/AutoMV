@@ -1,0 +1,11 @@
+[
+  {
+    "shot_num": 1,
+    "prompt": "Subject: Young Chinese couple (Eleven and the man). Context: Cliffside at golden hour, vast landscape. Action: Standing closely, leaning into each other, hands gently clasped. Style: Warm, romantic, cinematic, timeless. Camera Motion & Angle: Sweeping crane shot pulling back from medium close-up to wide shot. Composition: Transitions from medium close-up to wide shot, couple small against vast landscape. Ambiance: Warm golden tones, soft focus, golden hour lighting, emotional and tender atmosphere.",
+    "camera_movement": "Sweeping crane shot pulling back",
+    "shot_duration": 9.0,
+    "start": 185.0,
+    "end": 194.0,
+    "label": "story"
+  }
+]

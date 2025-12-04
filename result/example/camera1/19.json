@@ -1,0 +1,11 @@
+[
+  {
+    "shot_num": 1,
+    "prompt": "Subject: Chinese female singer (late 20s) with long dark flowing hair, glistening tear track, and serene expression. Context: Stark, minimalist white background. Action: Standing still, subtle head tilt to the side, gentle blink, tear slowly trailing down her cheek. Style: Warm, romantic, cinematic with soft-focus, dreamlike visuals. Camera Motion & Angle: Slow dolly in, eye level. Composition: Medium close-up (focus on face and upper shoulders). Ambiance: Soft cinematic lighting with warm golden tones, ethereal glow enhancing the tear's glisten.",
+    "camera_movement": "slow dolly in",
+    "shot_duration": 4.0,
+    "start": 118.0,
+    "end": 122.0,
+    "label": "sing"
+  }
+]

@@ -1,0 +1,11 @@
+[
+  {
+    "shot_num": 1,
+    "prompt": "Subject: Eleven (Chinese young woman, early 20s with shoulder-length dark brown hair, glasses). Context: Cozy café with soft ambient light. Action: Initially gazing at him with a soft, hesitant smile, then breaking into a genuine, unguarded laugh—shoulders relaxing, eyes crinkling, head tilting slightly forward, hands gently clasping near her chest. Style: Warm, romantic, cinematic with soft-focus dreamlike visuals. Camera Motion & Angle: Slow eye-level dolly in. Composition: Medium close-up (framing her upper body) transitioning to close-up (focusing on her laughing face). Ambiance: Soft, warm golden tones, soft ambient light, dreamlike soft focus.",
+    "camera_movement": "Slow eye-level dolly in",
+    "shot_duration": 3.0,
+    "start": 65.0,
+    "end": 68.0,
+    "label": "story"
+  }
+]

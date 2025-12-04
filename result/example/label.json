@@ -1,0 +1,42 @@
+{
+    "good_designs": [
+        "Warm, golden hour lighting for outdoor scenes",
+        "Soft-focus, dreamlike visuals for montages and flashbacks",
+        "Sweeping, cinematic landscape shots (cliffs, cityscapes, parks)",
+        "Cozy, intimate indoor settings with soft, ambient light (bookstore, café)"
+    ],
+    "style_requirement": "A warm, romantic, and cinematic aesthetic that evolves with the couple's relationship. The initial scenes should have a soft, slightly desaturated look to convey nervousness and intimacy. As the relationship blossoms, the color palette becomes richer and more vibrant, dominated by golden tones, warm whites, and soft pastels. The lighting should be flattering and emotive, creating a sense of magic and destiny. The overall atmosphere is heartfelt, tender, and epic, capturing the journey of a love that feels both fated and timeless.",
+    "user_region": "Chinese",
+    "character_depiction": {
+        "Eleven": {
+            "name": "Eleven",
+            "age": "early 20s",
+            "gender": "female",
+            "nationality": "Chinese",
+            "hair_color": "natural dark brown",
+            "hair_length": "shoulder-length, often worn naturally",
+            "appearance": "An observant and introspective young woman with a kind face and glasses. Initially shy and nervous, she blossoms with newfound confidence and joy as her love story unfolds. Her expressions are highly emotive, ranging from hesitant curiosity to unguarded, radiant happiness.",
+            "role": "protagonist"
+        },
+        "The Man": {
+            "name": "The Man",
+            "age": "early 20s",
+            "gender": "male",
+            "nationality": "Chinese",
+            "hair_color": "black",
+            "hair_length": "short",
+            "appearance": "A gentle and warm-spirited man with a kind, questioning smile. He appears calm and approachable, with an easygoing charm. His demeanor is supportive and loving, often seen listening intently or sharing a laugh with Eleven.",
+            "role": "love interest / co-protagonist"
+        },
+        "Female Singer": {
+            "name": "Female Singer",
+            "age": "late 20s",
+            "gender": "female",
+            "nationality": "Chinese",
+            "hair_color": "dark, almost black",
+            "hair_length": "long and flowing",
+            "appearance": "An ethereal and poised figure who serves as the story's emotional narrator. Her expressions are serene and profound, conveying deep emotion with subtlety, whether it's a look of realization, a gentle tear, or a powerful, heartfelt delivery. She is often seen in minimalist or dreamlike settings.",
+            "role": "performer / narrator"
+        }
+    }
+}

@@ -1,0 +1,11 @@
+[
+  {
+    "shot_num": 1,
+    "prompt": "Subject: Female Singer (Eleven, late 20s with dark long flowing hair). Context: Open field at sunset. Action: Singing with serene confidence, subtle hand gestures gently rising and falling, slight swaying to the rhythm. Style: Warm, romantic, cinematic with soft-focus dreamlike visuals. Camera Motion & Angle: Slow push-in (dolly) from eye level. Composition: Transitions from medium shot to close-up, framing her upper body and face. Ambiance: Golden hour lighting casting a halo effect, warm golden tones, soft glow on skin and hair.",
+    "camera_movement": "slow push-in (dolly)",
+    "shot_duration": 8.0,
+    "start": 127.0,
+    "end": 135.0,
+    "label": "sing"
+  }
+]

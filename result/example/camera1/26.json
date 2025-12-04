@@ -1,0 +1,11 @@
+[
+  {
+    "shot_num": 1,
+    "prompt": "Subject: Chinese female singer (late 20s, dark long flowing hair). Context: Cozy candlelit room. Action: Singing, conveying soft intimate emotion through subtle facial expressions (soft gaze, faint smile). Style: Warm romantic cinematic aesthetic, soft-focus. Camera Angle: Extreme close-up. Composition: Tight close-up of her face. Ambiance: Warm ambient candlelight, golden-warm tones.",
+    "camera_movement": "gentle, slow dolly in (subtle, 2cm movement toward face)",
+    "shot_duration": 7.0,
+    "start": 154.0,
+    "end": 161.0,
+    "label": "sing"
+  }
+]

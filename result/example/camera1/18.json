@@ -1,0 +1,11 @@
+[
+  {
+    "shot_num": 1,
+    "prompt": "Subject: The couple's hands (intertwined, caressing, holding a mug) and the couple walking under rain. Context: Cozy indoor setting (soft ambient light) transitioning to outdoor rainy street. Action: Hands intertwining gently, fingertips caressing the man's cheek, both hands wrapping around a warm mug; then the couple walking slowly under a shared umbrella, shoulders touching, heads slightly bowed towards each other. Style: Warm romantic cinematic, soft-focus dreamlike, slightly desaturated warm tones. Camera Motion & Angle: Extreme close-ups on hands with slow, steady pans; transitions to a medium tracking shot at eye level following their walk. Composition: Extreme close-ups (hands) to medium two-shot (couple under umbrella). Ambiance: Soft ambient indoor light, gentle rain with warm soft desaturated tones, dreamlike soft-focus.",
+    "camera_movement": "Slow pans on hand close-ups, smooth transition to tracking shot following the couple's walk",
+    "shot_duration": 15.0,
+    "start": 103.0,
+    "end": 118.0,
+    "label": "story"
+  }
+]

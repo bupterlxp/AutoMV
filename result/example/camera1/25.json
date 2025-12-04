@@ -1,0 +1,11 @@
+[
+  {
+    "shot_num": 1,
+    "prompt": "Subject: Chinese couple (Eleven and The Man); Context: cliffside during sunset; Action: embracing tightly with heads resting gently against each other, forming a powerful silhouette; Style: warm, romantic, cinematic with soft-focus dreamlike visuals and rich vibrant color palette (orange, purple, golden tones); Camera Motion & Angle: slow pan up from their embracing figures to the vibrant sky, low angle emphasizing their silhouette against the sunset; Composition: medium-wide shot framing the couple's silhouette against the expansive sunset sky; Ambiance: warm golden hour lighting, heartfelt and cinematic atmosphere",
+    "camera_movement": "slow pan up",
+    "shot_duration": 4.0,
+    "start": 150.0,
+    "end": 154.0,
+    "label": "story"
+  }
+]

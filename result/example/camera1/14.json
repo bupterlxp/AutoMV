@@ -1,0 +1,11 @@
+[
+  {
+    "shot_num": 1,
+    "prompt": "Subject: Eleven and The Man; Context: Cozy bookstore with ambient light; Action: Film reel rewinds quickly then plays forward, focusing on their first meeting, capturing nervous intimacy and destiny; Style: Warm, romantic, cinematic with soft, slightly desaturated look; Camera Motion & Angle: Close-up on film reel (rewind), then smooth pan forward to eye-level; Composition: Close-up (film reel) transitioning to medium two-shot (couple); Ambiance: Soft ambient light, warm undertones, slightly desaturated",
+    "camera_movement": "Close-up on film reel with quick reverse motion (rewind), then smooth pan forward to focus on couple",
+    "shot_duration": 3.0,
+    "start": 82.0,
+    "end": 85.0,
+    "label": "story"
+  }
+]

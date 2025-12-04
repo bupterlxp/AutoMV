@@ -1,0 +1,11 @@
+[
+  {
+    "shot_num": 1,
+    "prompt": "Subject: The couple (woman with shoulder-length dark brown hair, glasses; man with short black hair) hand-in-hand. Context: Old, grand library with ancient scrolls on towering shelves. Action: Walking slowly, occasionally glancing at scrolls with gentle curiosity. Style: Warm, romantic, cinematic, soft, slightly desaturated, dreamlike. Camera Motion & Angle: Slow tracking shot, eye level, following their movement. Composition: Medium shot, framing joined hands and upper bodies with library shelves in background. Ambiance: Soft, mystical warm light, timeless romantic atmosphere.",
+    "camera_movement": "slow tracking",
+    "shot_duration": 7.0,
+    "start": 90.0,
+    "end": 97.0,
+    "label": "story"
+  }
+]

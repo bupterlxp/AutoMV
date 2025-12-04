@@ -1,0 +1,11 @@
+[
+  {
+    "shot_num": 1,
+    "prompt": "Subject: Eleven (Chinese female, early 20s, glasses, dark brown shoulder-length hair). Context: Dimly lit, cozy bookstore. Action: Browsing a shelf, then freezing, eyes fixed on a man silhouetted by a far window. Style: Soft, slightly desaturated romantic-cinematic. Camera Motion & Angle: Handheld (shaky) medium close-up, panning gently toward the man. Composition: Medium close-up on Eleven, with the man blurred in the background. Ambiance: Dim, cozy, soft ambient light with warm undertones.",
+    "camera_movement": "handheld, gentle pan",
+    "shot_duration": 5.0,
+    "start": 0.0,
+    "end": 5.0,
+    "label": "story"
+  }
+]

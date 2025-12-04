@@ -1,0 +1,11 @@
+[
+  {
+    "shot_num": 1,
+    "prompt": "Subject: Elegant text ('愛情小說 (Love Story)' and '全球首映 (World Premiere)') over a soft, fading dreamlike visual. Context: A dreamlike, soft-focus fading background. Action: '愛情小說 (Love Story)' appears on screen, followed by '全球首映 (World Premiere)' fading in below it; the background visual gradually fades. Style: Warm, romantic, cinematic, and dreamlike, adhering to soft-focus, tender aesthetics. Camera Motion & Angle: Static shot with a gentle soft focus. Composition: Full-frame to emphasize text against the fading background. Ambiance: Soft-focus, warm golden undertones with a slightly desaturated yet tender look, conveying intimacy and anticipation.",
+    "camera_movement": "static",
+    "shot_duration": 7.0,
+    "start": 212.0,
+    "end": 219.0,
+    "label": "story"
+  }
+]

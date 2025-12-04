@@ -1,0 +1,11 @@
+[
+  {
+    "shot_num": 1,
+    "prompt": "Subject: Eleven and The Man (young Chinese couple). Context: Autumn park with swirling golden-red leaves. Action: Running together, laughing, exuding playful energy and freedom. Style: Warm, romantic, cinematic with soft-focus dreamlike visuals. Camera Motion & Angle: Tracking shot at eye level, dynamically following their movement. Composition: Medium shot capturing both figures mid-run, surrounded by swirling leaves. Ambiance: Golden-hour lighting, vibrant golden and red autumn tones, warm and joyful.",
+    "camera_movement": "tracking",
+    "shot_duration": 5.0,
+    "start": 68.0,
+    "end": 73.0,
+    "label": "story"
+  }
+]

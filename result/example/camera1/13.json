@@ -1,0 +1,11 @@
+[
+  {
+    "shot_num": 1,
+    "prompt": "Subject: Eleven and her hand (doodling 'The Man's name); Context: Montage of settings—cozy indoor window with condensation, intimate indoor sketchbook, golden-hour beach; Action: Doodling his name in window condensation, flipping through sketchbook with his name/sketches, drawing in beach sand; Style: Warm, romantic, dreamlike montage with soft-focus and slightly desaturated tones (conveying intimacy); Camera Motion & Angle: Gentle pan between hand movements, soft dissolves between settings, eye-level close-ups; Composition: Close-up of hand, medium close-up of Eleven's face (soft-focus); Ambiance: Soft ambient indoor light (window), golden-hour sunlight (beach), warm tones, tender and introspective atmosphere",
+    "camera_movement": "gentle pan and soft dissolves between settings",
+    "shot_duration": 5.0,
+    "start": 77.0,
+    "end": 82.0,
+    "label": "story"
+  }
+]

@@ -1,0 +1,11 @@
+[
+  {
+    "shot_num": 1,
+    "prompt": "Subject: Final title card featuring a subtle portrait of Eleven (Chinese female, early 20s, dark brown shoulder-length hair, kind face, glasses) and displaying the show's name/premiere details. Context: Clean, soft background with warm golden undertones. Action: Title card remains static, then gradually fades to black as the visual concludes. Style: Warm, romantic, cinematic (consistent with the golden-toned, heartfelt aesthetic). Camera Motion & Angle: Static shot, eye level. Composition: Wide shot to fully frame the title card. Ambiance: Warm golden undertones, soft lighting, transitioning to black.",
+    "camera_movement": "Static, then slow fade to black",
+    "shot_duration": 15.0,
+    "start": 225.0,
+    "end": 240.0,
+    "label": "story"
+  }
+]

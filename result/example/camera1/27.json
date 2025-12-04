@@ -1,0 +1,11 @@
+[
+  {
+    "shot_num": 1,
+    "prompt": "Subject: Older Chinese couple (Eleven and The Man). Context: Outdoor porch swing during golden hour, cozy intimate setting. Action: Man reads aloud from a book; woman listens with a soft smile, head resting gently on his shoulder; swing sways slowly; both wrapped in a warm blanket. Style: Warm romantic cinematic aesthetic, soft-focus, golden tones. Camera Motion & Angle: Slow push-in from eye-level medium shot to close-up, maintaining gentle focus on their intertwined hands and faces. Composition: Medium shot transitioning to tight two-person close-up. Ambiance: Golden hour lighting, soft warm glow, conveying lifelong tender peace.",
+    "camera_movement": "Slow push-in",
+    "shot_duration": 9.0,
+    "start": 161.0,
+    "end": 170.0,
+    "label": "story"
+  }
+]

@@ -1,0 +1,11 @@
+[
+  {
+    "shot_num": 1,
+    "prompt": "Subject: Eleven (Chinese female in early 20s) interacting with 'his' gaze. Context: Cozy, intimate indoor setting (e.g., café/bookstore) with soft ambient light. Action: Back to camera, she looks down shyly; slowly lifts head, meets his gaze, small nervous smile forms, and says, 'My name is Eleven.' Style: Warm, romantic, cinematic with soft, slightly desaturated tones. Camera Motion & Angle: Over-the-shoulder shot from behind Eleven, slow push-in to close-up at eye level as she meets his gaze. Composition: Close framing transitioning from medium shot to close-up, emphasizing emotional intimacy. Ambiance: Soft, warm ambient indoor light with slightly desaturated palette, conveying nervousness and tenderness.",
+    "camera_movement": "Slow push-in from over-the-shoulder shot to close-up",
+    "shot_duration": 6.0,
+    "start": 23.0,
+    "end": 29.0,
+    "label": "story"
+  }
+]

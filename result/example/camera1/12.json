@@ -1,0 +1,11 @@
+[
+  {
+    "shot_num": 1,
+    "prompt": "Subject: Chinese female singer (late 20s) with dark long flowing hair. Context: Intimate indoor setting with soft projection of starry night sky in the background. Action: Hand gently over heart, fingers slightly curling, head tilting subtly with a serene, profound expression as the starry sky projection gradually brightens. Style: Warm, romantic, cinematic with soft-focus, dreamlike visuals. Camera Motion & Angle: Slow, gentle push-in from medium shot, eye-level. Composition: Medium shot framing upper body, centered on singer with starry sky background. Ambiance: Warm golden lighting, soft glow, flattering and emotive to convey magic and destiny.",
+    "camera_movement": "slow push-in",
+    "shot_duration": 4.0,
+    "start": 73.0,
+    "end": 77.0,
+    "label": "sing"
+  }
+]

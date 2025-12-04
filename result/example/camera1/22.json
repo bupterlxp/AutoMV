@@ -1,0 +1,11 @@
+[
+  {
+    "shot_num": 1,
+    "prompt": "Subject: Eleven. Context: Scenic ocean cliff under golden hour lighting. Action: Expressing shocked disbelief then radiant joy—her eyes widen, hands fly to her mouth, tears glisten, and she breaks into a灿烂 smile. Style: Warm, romantic, cinematic with soft-focus dreamlike visuals. Camera Motion: Slow push-in from medium shot to close-up, maintaining focus on her face. Composition: Close-up of Eleven's face with the ocean and cliff edges in soft focus in the background. Ambiance: Golden hour lighting, warm golden tones, heartfelt and epic atmosphere.",
+    "camera_movement": "Slow push-in from medium shot to close-up",
+    "shot_duration": 4.0,
+    "start": 135.0,
+    "end": 139.0,
+    "label": "story"
+  }
+]

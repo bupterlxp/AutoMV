@@ -1,0 +1,11 @@
+[
+  {
+    "shot_num": 1,
+    "prompt": "Subject: Two young Chinese people (Eleven and the man). Context: Cozy, intimate indoor bookstore café. Action: The man gestures expressively while speaking; Eleven listens intently with a soft smile, occasionally nodding; brief shared laughter. Style: Warm, romantic cinematic aesthetic with soft-focus, dreamlike visuals. Camera Motion & Angle: Slow dolly in from medium two-shot to slightly tighter framing, eye level. Composition: Medium two-shot gradually transitioning to a closer two-shot. Ambiance: Warm golden lighting, soft ambient light, tender and heartfelt tone.",
+    "camera_movement": "dolly in",
+    "shot_duration": 28.0,
+    "start": 29.0,
+    "end": 57.0,
+    "label": "story"
+  }
+]
