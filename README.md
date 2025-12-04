@@ -108,24 +108,24 @@ QWEN_API_KEY=xxx
 Place your `.mp3` or `.wav` file into:
 
 ```bash
-./input/
+./result/{music_video_name}/
 ```
 
 ### 2. Run AutoMV
 
 ```bash
-python run_autmv.py --audio input/song.mp3 --output output/
+python generate_pipeline.py
 ```
 
 ### 3. Output Structure
 
 ```bash
-output/
-  ├── preprocess/         # beat, structure, lyrics, separated stems
-  ├── scripts/            # timeline scripts + shot prompts
-  ├── keyframes/          # generated key images
-  ├── clips/              # generated short video segments
-  └── final_mv.mp4        # final assembled music video
+result/
+  ├── {music_video_name}/        
+      ├── camera/            # timeline scripts + shot prompts
+      ├── picture/            # generated key images
+      ├── output/              # generated short video segments
+      └── final_mv.mp4        # final assembled music video
 ```
 
 ---
@@ -193,7 +193,6 @@ If you use AutoMV in your research, please cite:
 ## 📝 License
 
 This project is released under the MIT/BSD/Apache 2.0 License.
-(Choose your license accordingly.)
 
 ---
 
